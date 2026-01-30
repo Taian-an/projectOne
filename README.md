@@ -1,30 +1,18 @@
-# 📊 Sales Dashboard (Basic POS)
 
-A web-based sales dashboard for visualizing sales data and sales journal.
 
-## 👥 Team Members
+## Team Members
 - Vorameth Laorrattanasak
 - Voramet Borvornsirisan
 - Nonthapat Chintawutiphong
 
-## 🌐 Live Demo
-https://vorameth0.github.io/sales-dashboard
+## Screenshots
+<img width="800" height="798" alt="Screenshot 2026-01-30 at 10 29 21 PM" src="https://github.com/user-attachments/assets/c4107af2-fc51-4667-a465-9fe28ae8b3b7" />
 
-## 📂 GitHub Repository
-https://github.com/Vorameth0/sales-dashboard
+<img width="791" height="708" alt="Screenshot 2026-01-30 at 10 29 41 PM" src="https://github.com/user-attachments/assets/6f613b2c-816d-48f1-b0a9-f3b48ea0217c" />
 
-## 📸 Screenshots
-(Add screenshots here)
+<img width="799" height="869" alt="Screenshot 2026-01-30 at 10 30 01 PM" src="https://github.com/user-attachments/assets/587d37e9-169a-452c-98ad-f27e61a9b1a7" />
 
-## ✨ Features
-- Show total sales of all time
-- Sales summary (Daily / Weekly / Monthly)
-- Sales by product
-- Stock value by product
-- Top 5 selling items
-- Sales Journal page
+<img width="769" height="864" alt="Screenshot 2026-01-30 at 10 30 21 PM" src="https://github.com/user-attachments/assets/edac1705-7844-477e-b659-bacb58e84e2b" />
 
-## 🛠 Tech Stack
-- React + Vite
-- Recharts
-- CSS
+<img width="796" height="643" alt="Screenshot 2026-01-30 at 10 30 34 PM" src="https://github.com/user-attachments/assets/df010a25-2cd4-401b-9223-8eb1bd0c877c" />
+
