@@ -1,9 +1,7 @@
 
 
 ## Team Members
-- Vorameth Laorrattanasak
-- Voramet Borvornsirisan
-- Nonthapat Chintawutiphong
+- Taian Chen 6630027
 
 ## Screenshots
 <img width="800" height="798" alt="Screenshot 2026-01-30 at 10 29 21 PM" src="https://github.com/user-attachments/assets/c4107af2-fc51-4667-a465-9fe28ae8b3b7" />
