@@ -3,6 +3,12 @@
 ## Team Members
 - Taian Chen 6630027
 
+# Sales Dashboard Project
+
+This project is a web-based sales dashboard designed to visualize and analyze sales data through interactive charts and tables.  
+The goal of this project is to help users quickly understand sales performance and key business metrics.
+
+
 ## Screenshots
 <img width="800" height="798" alt="Screenshot 2026-01-30 at 10 29 21 PM" src="https://github.com/user-attachments/assets/c4107af2-fc51-4667-a465-9fe28ae8b3b7" />
 
